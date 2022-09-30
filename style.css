@@ -56,7 +56,13 @@ button {
     display: none;
     margin-top: 30px;
 }
-
+.notice{
+    font-size: 15px;
+    margin-top: 20px;
+    color: #3B44F6;
+    background-color: #fff;
+    padding: 3px 4px;
+}
 /**footer **/
 .footer {
     /* background-color: var(--primary-green); */
