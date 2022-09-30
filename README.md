@@ -3,7 +3,7 @@
 This is fun game app, created using Vanilla JS.
 
 ### How this works?
-If sum of digits in your birthdate is divisible by your lukcy number, then your birthday is lucky.
+If sum of digits in your birthdate is divisible by your lucky number, then your birthday is lucky.
 
 ### How to use?
 1. Enter your birthdate
