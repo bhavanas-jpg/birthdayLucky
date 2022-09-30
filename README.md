@@ -11,3 +11,6 @@ If sum of digits in your birthdate is divisible by your lucky number, then your 
 3. Click on Check
 
 And we will show your birthdate is lucky or not on the same page.
+
+### Privacy Notice:
+We do not store or share your personal data and information.
